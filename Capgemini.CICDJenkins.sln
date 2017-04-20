@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CICDJenkins.WebApp", "Capgemini.CICDJenkins.WebApp\Capgemini.CICDJenkins.WebApp.csproj", "{F7159C4F-5A9F-41AC-B4D5-AAA23ABA8481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CICDJenkins.WebApp.Tests", "Capgemini.CICDJenkins.WebApp.Tests\Capgemini.CICDJenkins.WebApp.Tests.csproj", "{0334D32A-703C-49E8-8E00-F904866824AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7159C4F-5A9F-41AC-B4D5-AAA23ABA8481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7159C4F-5A9F-41AC-B4D5-AAA23ABA8481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7159C4F-5A9F-41AC-B4D5-AAA23ABA8481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7159C4F-5A9F-41AC-B4D5-AAA23ABA8481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0334D32A-703C-49E8-8E00-F904866824AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0334D32A-703C-49E8-8E00-F904866824AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0334D32A-703C-49E8-8E00-F904866824AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0334D32A-703C-49E8-8E00-F904866824AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
